@@ -48,4 +48,3 @@ if (is_numeric($a) && is_numeric($b)) {
 
 ?>
 
-<script src="http://pastebin.com/embed_js.php?i=b1pJu6PT"></script>
